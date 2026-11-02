@@ -116,3 +116,6 @@ InitTestScene*.unity*
 # Local OpenWeather API key
 /[Aa]ssets/[Rr]esources/WeatherApiKey.txt
 /[Aa]ssets/[Rr]esources/WeatherApiKey.txt.meta
+
+# Generated WebGL build
+/Web Build/
