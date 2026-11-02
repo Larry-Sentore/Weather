@@ -1,0 +1,31 @@
+{
+  "name": "Snow Test",
+  "weather": [
+    {
+      "id": 601,
+      "description": "snow",
+      "icon": "13d"
+    }
+  ],
+  "main": {
+    "temp": -3.2,
+    "humidity": 91
+  },
+  "wind": {
+    "speed": 3.1,
+    "deg": 45
+  },
+  "sys": {
+    "country": "NO",
+    "sunrise": 1793600000,
+    "sunset": 1793630000
+  },
+  "clouds": {
+    "all": 96
+  },
+  "snow": {
+    "1h": 1.8
+  },
+  "dt": 1793615000,
+  "timezone": 3600
+}

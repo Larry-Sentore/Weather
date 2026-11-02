@@ -1,0 +1,31 @@
+{
+  "name": "Rain Test",
+  "weather": [
+    {
+      "id": 500,
+      "description": "light rain",
+      "icon": "10d"
+    }
+  ],
+  "main": {
+    "temp": 12.5,
+    "humidity": 82
+  },
+  "wind": {
+    "speed": 4.2,
+    "deg": 210
+  },
+  "sys": {
+    "country": "GB",
+    "sunrise": 1793600000,
+    "sunset": 1793630000
+  },
+  "clouds": {
+    "all": 88
+  },
+  "rain": {
+    "1h": 2.4
+  },
+  "dt": 1793615000,
+  "timezone": 0
+}
